@@ -2,51 +2,51 @@
   {
     "package": "circadia",
     "url": "https://github.com/circadia-bio/circadia",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "zeitR",
     "url": "https://github.com/circadia-bio/zeitR",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "slumbR",
     "url": "https://github.com/circadia-bio/slumbR",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "tallieR",
     "url": "https://github.com/circadia-bio/tallieR",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "syncR",
     "url": "https://github.com/circadia-bio/syncR",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "clerkR",
     "url": "https://github.com/circadia-bio/clerkR",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "hypnoR",
     "url": "https://github.com/circadia-bio/hypnoR",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "mrpheus",
     "url": "https://github.com/circadia-bio/mrpheus",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "boldR",
     "url": "https://github.com/circadia-bio/boldR",
-    "branch": "*release"
+    "branch": "main"
   },
   {
     "package": "dynR",
     "url": "https://github.com/circadia-bio/dynR",
-    "branch": "*release"
+    "branch": "main"
   }
 ]
