@@ -5,6 +5,11 @@
     "branch": "*release"
   },
   {
+    "package": "Ritable",
+    "url": "https://github.com/circadia-bio/R-itable",
+    "branch": "*release"
+  },
+  {
     "package": "zeitR",
     "url": "https://github.com/circadia-bio/zeitR",
     "branch": "*release"
