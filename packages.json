@@ -53,5 +53,10 @@
     "package": "dynR",
     "url": "https://github.com/circadia-bio/dynR",
     "branch": "*release"
+  },
+  {
+    "package": "Rtractor",
+    "url": "https://github.com/circadia-bio/Rtractor",
+    "branch": "*release"
   }
 ]
