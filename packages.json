@@ -58,5 +58,10 @@
     "package": "Rtractor",
     "url": "https://github.com/circadia-bio/Rtractor",
     "branch": "*release"
+  },
+  {
+    "package": "axR",
+    "url": "https://github.com/circadia-bio/axR",
+    "branch": "*release"
   }
 ]
